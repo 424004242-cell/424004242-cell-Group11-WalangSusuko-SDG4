@@ -1,0 +1,12 @@
+C:\Users\origr\source\repos\StudentResourceTracker\bin\Debug\StudentResourceTracker.exe.config
+C:\Users\origr\source\repos\StudentResourceTracker\bin\Debug\StudentResourceTracker.exe
+C:\Users\origr\source\repos\StudentResourceTracker\bin\Debug\StudentResourceTracker.pdb
+C:\Users\origr\source\repos\StudentResourceTracker\bin\Debug\StudentResourceTracker.xml
+C:\Users\origr\source\repos\StudentResourceTracker\obj\Debug\StudentResourceTracker.vbproj.AssemblyReference.cache
+C:\Users\origr\source\repos\StudentResourceTracker\obj\Debug\StudentResourceTracker.LoginForm.resources
+C:\Users\origr\source\repos\StudentResourceTracker\obj\Debug\StudentResourceTracker.Resources.resources
+C:\Users\origr\source\repos\StudentResourceTracker\obj\Debug\StudentResourceTracker.vbproj.GenerateResource.cache
+C:\Users\origr\source\repos\StudentResourceTracker\obj\Debug\StudentResourceTracker.vbproj.CoreCompileInputs.cache
+C:\Users\origr\source\repos\StudentResourceTracker\obj\Debug\StudentResourceTracker.exe
+C:\Users\origr\source\repos\StudentResourceTracker\obj\Debug\StudentResourceTracker.xml
+C:\Users\origr\source\repos\StudentResourceTracker\obj\Debug\StudentResourceTracker.pdb
